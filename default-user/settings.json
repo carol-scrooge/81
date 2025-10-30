@@ -2,7 +2,7 @@
     "firstRun": false,
     "accountStorage": {
         "__migrated": "1",
-        "NavOpened": "false",
+        "NavOpened": "true",
         "LNavOpened": "true",
         "AlertRegex_openai_Izumi · こなた Opus": "true"
     },
@@ -339,11 +339,11 @@
         "default_persona": null,
         "persona_descriptions": {
             "user-default.png": {
-                "description": "",
+                "description": "{{user}}是一名外表中性的男高中生，留着微微遮眉的黑发。",
                 "position": 0
             }
         },
-        "persona_description": "",
+        "persona_description": "{{user}}是一名外表中性的男高中生，留着微微遮眉的黑发。",
         "persona_description_position": 0,
         "persona_description_role": 0,
         "persona_description_depth": 2,
