@@ -354,7 +354,7 @@
         "persona_description_lorebook": "",
         "persona_show_notifications": true,
         "persona_sort_order": "asc",
-        "custom_stopping_strings": "",
+        "custom_stopping_strings": "[\"<end>\"]",
         "custom_stopping_strings_macro": true,
         "fuzzy_search": true,
         "encode_tags": false,
